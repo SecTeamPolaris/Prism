@@ -6,7 +6,7 @@ The project is written in Python3.6.8 using the following backend: Intel i7-9750
 
 Prism is a general framework for connection privacy defenses. 
 
-![avatar](./figure/MainStructure.pdf)
+![](./figure/MainStructure.pdf)
 
 ## Code 
 The simulation of Prism is wiritten in Jupyter Notebook. 
