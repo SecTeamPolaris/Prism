@@ -13,11 +13,5 @@ The simulation of Prism is wiritten in Jupyter Notebook.
 
 ## Reference
 ````
-@article{li2022prograph,
-  title={ProGraph: Robust Network Traffic Identification With Graph Propagation},
-  author={Li, Wenhao and Zhang, Xiao-Yu and Bao, Huaifeng and Shi, Haichao and Wang, Qiang},
-  journal={IEEE/ACM Transactions on Networking},
-  year={2022},
-  publisher={IEEE}
-}
+10.1109/TIFS.2023.3267885
 ````
