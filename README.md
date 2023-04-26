@@ -13,5 +13,22 @@ The simulation of Prism is wiritten in Jupyter Notebook.
 
 ## Reference
 ````
-10.1109/TIFS.2023.3267885
+@ARTICLE{10103708,
+
+  author={Li, Wenhao and Zhang, Xiao-Yu and Bao, Huaifeng and Yang, Binbin and Li, Zhaoxuan and Shi, Haichao and Wang, Qiang},
+
+  journal={IEEE Transactions on Information Forensics and Security}, 
+
+  title={Prism: Real-Time Privacy Protection Against Temporal Network Traffic Analyzers}, 
+
+  year={2023},
+
+  volume={18},
+
+  number={},
+
+  pages={2524-2537},
+
+  doi={10.1109/TIFS.2023.3267885}}
+
 ````
